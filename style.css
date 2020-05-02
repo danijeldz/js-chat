@@ -66,7 +66,7 @@ h3 {
 }
 
 .container {
-  max-width: 37rem;
+  max-width: 40rem;
 }
 
 .btn {
@@ -77,4 +77,15 @@ h3 {
 }
 .btn:focus {
   outline: none !important;
+}
+.username {
+  font-weight: bold;
+}
+.time {
+  font-size: 0.7em;
+  color: #999;
+}
+.update-mssg {
+  text-align: center;
+  margin: 1rem auto;
 }
